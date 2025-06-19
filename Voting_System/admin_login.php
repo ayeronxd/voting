@@ -14,7 +14,7 @@ if (isset($_SESSION['user_id']) && $_SESSION['is_admin']) {
   <link rel="stylesheet" href="admin.css">
   <style>
     .container {
-      max-width: 480px; /* widened from default or previous value */
+      max-width: 480px; 
       margin: 60px auto 0 auto;
       background: #fff;
       border-radius: 12px;
